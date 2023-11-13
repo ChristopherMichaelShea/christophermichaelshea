@@ -1,5 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello;My+name+is+Christopher+Shea.;I+am+a+Software+Developer.;My+interests+include+%5BPython%2C+JavaScript%2C+C%2B%2B%2C+C%5D" alt="Typing SVG" /></a>
 
 [<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">](https://github.com/settings/appearance#gh-dark-mode-only)
