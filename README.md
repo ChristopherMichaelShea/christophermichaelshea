@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/christopher-m-shea/" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="rishav-chanda-b89a791b3" width="80" /></a>
-<a href="https://christophermshea.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website" width="80" /></a>
+<a href="https://www.linkedin.com/in/christopher-m-shea/" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="rishav-chanda-b89a791b3" width="80" /></a>
+<a href="https://christophermshea.com" target="_blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
