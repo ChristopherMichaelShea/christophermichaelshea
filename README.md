@@ -12,7 +12,7 @@
 <h3 align="left">About me:</h3>
 <p align="left"> 
 
-- I’m Christopher Shea
+- I’m Christopher Shea.
 
 - I'm a software engineer passionate about innovative software solutions and hardware systems.
 
@@ -20,9 +20,9 @@
 
 - With a foundation in computer science, mathematics, and a knack for problem-solving, I aim to craft efficient, robust, and scalable applications.
 
-- I enjoy working in teams and constantly learning new things
+- I enjoy working in teams and constantly learning new things.
 
-- Let's collaborate and explore the intersection of technology and creativity
+- Let's collaborate and explore the intersection of technology and creativity.
 
 
 <h3 align="left">Connect with me:</h3>
