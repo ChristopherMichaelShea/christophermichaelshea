@@ -16,7 +16,7 @@
 
 - I'm a software engineer passionate about innovative software solutions and hardware systems.
 
-- Very interested in Distributed Systems and Network Programming.
+- I'm really interested in Distributed Systems and Network Programming.
 
 - With a foundation in computer science, mathematics, and a knack for problem-solving, I aim to craft efficient, robust, and scalable applications.
 
