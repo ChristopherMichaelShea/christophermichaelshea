@@ -18,7 +18,7 @@
 
 - I'm really interested in Distributed Systems and Network Programming.
 
-- With a foundation in computer science, mathematics, and a knack for problem-solving, I aim to craft efficient, robust, and scalable applications.
+- With a foundation in computer science, mathematics, and a knack for problem-solving, I aim to create efficient, robust, and scalable applications.
 
 - I enjoy working in teams and constantly learning new things!
 
